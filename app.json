@@ -2,6 +2,7 @@
   "name": "PDF Bot",
   "description": "Telegram bot with PDF tools.",
   "logo": "https://telegra.ph/file/71612596918ea10a776db.jpg",
+  "stack": "heroku-20",
   "keywords": [
     "telegram",
     "bot",
